@@ -4,12 +4,12 @@ using namespace std;
 
 MyClass::MyClass()
 {
-    cout << "Constructor" << endl;
+    cout << "Constructor2" << endl;
     //ctor
 }
 
 MyClass::~MyClass()
 {
-    cout << "Destructor" << endl;
+    cout << "Destructor2" << endl;
     //ctor
 }
