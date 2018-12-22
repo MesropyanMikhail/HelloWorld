@@ -14,7 +14,12 @@
 
 1545389180 c:\users\Месропян\documents\github\helloworld\myclass.h
 
-1545129408 source:c:\users\Месропян\documents\github\helloworld\myclass.cpp
+1545389248 source:c:\users\Месропян\documents\github\helloworld\myclass.cpp
 	"MyClass.h"
 	<iostream>
+
+1545470005 source:c:\users\Месропян\documents\github\helloworld\src\person.cpp
+	"Person.h"
+
+1545470005 c:\users\Месропян\documents\github\helloworld\include\person.h
 
