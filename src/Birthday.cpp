@@ -1,17 +1,15 @@
 #include "Birthday.h"
 #include <iostream>
 using namespace std;
-Birthday::Birthday(int m, int d, int y):month(m), day(d), year(y)
+
+Birthday::Birthday(int m, int d, int y): month(m), day(d), year(y)
 {
-      cout << month << "/" << day << "/" << year  << endl;
-    //ctor
+   // cout << "month " << month << endl;
 }
-/*void printDate()
+void Birthday::printDate()
 {
+    //  cout << "Hello world!" << endl;
+    cout << month << "/" << day << "/" << year << endl;
 
-}*/
 
-/*private :
-/*    int m;
-    int d;
-    int y;*/
+}

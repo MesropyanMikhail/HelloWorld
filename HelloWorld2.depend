@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1545770782 source:c:\users\user\documents\github\helloworld2\helloworld2\main.cpp
+	<iostream>
+	"Birthday.h"
+	"Person.h"
+
+1545768378 source:c:\users\user\documents\github\helloworld2\helloworld2\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1545766204 c:\users\user\documents\github\helloworld2\helloworld2\include\birthday.h
+
+1545769590 source:c:\users\user\documents\github\helloworld2\helloworld2\person.cpp
+	"Person.h"
+	"Birthday.h"
+	<string>
+	<iostream>
+
+1545769590 c:\users\user\documents\github\helloworld2\helloworld2\person.h
+	<string>
+	"Birthday.h"
+
+1545989103 source:c:\users\Месропян\documents\github\helloworld2\main.cpp
+	<iostream>
+	"Birthday.h"
+	"Person.h"
+
+1545766204 c:\users\Месропян\documents\github\helloworld2\include\birthday.h
+
+1545769590 c:\users\Месропян\documents\github\helloworld2\person.h
+	<string>
+	"Birthday.h"
+
+1545769590 source:c:\users\Месропян\documents\github\helloworld2\person.cpp
+	"Person.h"
+	"Birthday.h"
+	<string>
+	<iostream>
+
+1545768378 source:c:\users\Месропян\documents\github\helloworld2\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
